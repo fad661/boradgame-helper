@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "porker": "ts-node porker/hand.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "ts-node": "^10.9.2"
+  },
+  "volta": {
+    "node": "22.2.0"
+  }
+}
